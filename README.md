@@ -186,9 +186,8 @@ A promising approach towards RE-free permanent magnets</a></li>
 and Second Messengers of Free Radicals</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(78).pdf" style="text-decoration:none;">Beginning Chemistry</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(79).pdf" style="text-decoration:none;">General Chemistry: Principles, Patterns, and Applications</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(80).pdf" style="text-decoration:none;">Molecules of an author
