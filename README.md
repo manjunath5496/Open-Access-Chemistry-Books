@@ -21,9 +21,8 @@ for Mycotoxin Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(7).pdf" style="text-decoration:none;">Coordination
 Chemistry of Silicon</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(8).pdf" style="text-decoration:none;"> Coupled-Cluster-R12-Methoden
-mit Auxiliarbasisfunktionen</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(8).pdf" style="text-decoration:none;"> Introductory Chemistry</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(9).pdf" style="text-decoration:none;">Organic Chemistry</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(10).pdf" style="text-decoration:none;">The Chemistry Of Imaging Probes</a></li>                              
@@ -101,7 +100,8 @@ Dislocations: Their Impact on Physical Properties of Crystals</a></li>
 2D Materials for Electronics Applications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(42).pdf" style="text-decoration:none;">A new method of seawater desalination via acrylic acid based hydrogels: Synthesis, characterisation, and experimental realisation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(43).pdf" style="text-decoration:none;">Thermodynamics
+And Chemistry</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(44).pdf" style="text-decoration:none;">Nucleoside
 Modifications</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(45).pdf" style="text-decoration:none;">Rietveld
@@ -120,7 +120,8 @@ And Oxidative Dna Damages</a></li>
 Friend or Foe?</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(51).pdf" style="text-decoration:none;">Carbohydrates
 2018</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(52).pdf" style="text-decoration:none;">Solutions Manual for
+Thermodynamics and Chemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(53).pdf" style="text-decoration:none;">Solid-state 19F-NMR studies on fluorine-labeled model compounds and biomolecules</a></li>
  
