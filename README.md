@@ -97,74 +97,92 @@ Monitoring and Forecasting</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(39).pdf" style="text-decoration:none;">Crystal
 Dislocations: Their Impact on Physical Properties of Crystals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(40).pdf" style="text-decoration:none;">Electrochemical SPM Study of 2D and 3D Phase: Formation of Zn at the Ionic Liquid /Au(111) Interface</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(41).pdf" style="text-decoration:none;">Integration of
+2D Materials for Electronics Applications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(42).pdf" style="text-decoration:none;">A new method of seawater desalination via acrylic acid based hydrogels: Synthesis, characterisation, and experimental realisation</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(44).pdf" style="text-decoration:none;">Nucleoside
+Modifications</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(45).pdf" style="text-decoration:none;">Rietveld
+Refinement in the Characterization of Crystalline Materials</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(46).pdf" style="text-decoration:none;">Implementation and Application of the Explicitly Correlated Coupled-Cluster Method in Turbomole</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(47).pdf" style="text-decoration:none;">One Hundred Years at the Intersection of Chemistry and Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(48).pdf" style="text-decoration:none;">Newborn Screening
+for Sickle Cell Disease and other Haemoglobinopathies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(49).pdf" style="text-decoration:none;">Radiation-induced
+And Oxidative Dna Damages</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(50).pdf" style="text-decoration:none;">Nanofibres:
+Friend or Foe?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(51).pdf" style="text-decoration:none;">Carbohydrates
+2018</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(53).pdf" style="text-decoration:none;">Solid-state 19F-NMR studies on fluorine-labeled model compounds and biomolecules</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(54).pdf" style="text-decoration:none;">Analysis of
+Peptides and Proteins by Electrophoretic Techniques </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(55).pdf" style="text-decoration:none;">Lignans</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(56).pdf" style="text-decoration:none;">Spectroscopic Ellipsometry of Interfacial Phase Transitions in Fluid Metallic Systems: KxKCl1-x and Ga1-xBix </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(57).pdf" style="text-decoration:none;">Water Soluble
+Polymers</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(58).pdf" style="text-decoration:none;">Charge Transport in DNA – Insights from Simulations</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(59).pdf" style="text-decoration:none;">Enzyme-Mediated
+Stereoselective Synthesis</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(60).pdf" style="text-decoration:none;">A detailed approach to model transport, heterogeneous chemistry, and electrochemistry in solid-oxide fuel cells </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(61).pdf" style="text-decoration:none;"> Chemical/
+Instrumental Approaches to the Evaluation of Wine Chemistry</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(62).pdf" style="text-decoration:none;">Transport
+of Fluids in Nanoporous Materials</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(63).pdf" style="text-decoration:none;">Mid infrared digital holography and terahertz imaging</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(64).pdf" style="text-decoration:none;">Recent Advances
+in Novel Materials for Future Spintronics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(65).pdf" style="text-decoration:none;">Heterobimetallic [2.2] Paracyclophane Complexes and Their Application in Photoredox Catalysis </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(66).pdf" style="text-decoration:none;">Molecular Magnets</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(67).pdf" style="text-decoration:none;">Pharmaceutical
+Crystals</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(68).pdf" style="text-decoration:none;">Thermochemistry and Kinetics for the Oxidative Degradation of Dibenzofuran and Precursors</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(69).pdf" style="text-decoration:none;">Biomass Chars:
+Elaboration, Characterization and Applications</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(70).pdf" style="text-decoration:none;">Molecular
+Modeling in Drug Design</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(71).pdf" style="text-decoration:none;">A Themed Issue
+of Functional Molecule-Based Magnets</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(72).pdf" style="text-decoration:none;">Raman Spectroscopic Study of High Temperature Rare Earth Metal - Rare Earth Halide Solutions: Ln-LnX3- and LnX2-LnX3-(LiX-KX)eu Systems (Ln: Nd, Ce; X: Cl, I)</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(73).pdf" style="text-decoration:none;">Catalyzed
+Synthesis of Natural Products</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(74).pdf" style="text-decoration:none;">Magnetic Nanostructures:
+A promising approach towards RE-free permanent magnets</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(75).pdf" style="text-decoration:none;">Group Theory of Chemical Elements</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(76).pdf" style="text-decoration:none;">Using the Patch-Clamp technique to shed light on ion Channels Structure, Function and Pharmacology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(77).pdf" style="text-decoration:none;">Antioxidants
+and Second Messengers of Free Radicals</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
@@ -172,43 +190,62 @@ Information Extraction from Semi-Structured and Free Text</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(80).pdf" style="text-decoration:none;">Molecules of an author
+in search of memory</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(81).pdf" style="text-decoration:none;">Advances
+and Applications of Nanoantimicrobial Treatments</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(82).pdf" style="text-decoration:none;">Amide Bond
+Activation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(83).pdf" style="text-decoration:none;">Analysis of
+Hydrogen Bonds in Crystals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(84).pdf" style="text-decoration:none;">Anticancer Drugs</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(85).pdf" style="text-decoration:none;">Catalysis by
+Precious Metals, Past and Future</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(86).pdf" style="text-decoration:none;">Catalysis for
+Low Temperature Fuel Cells</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(87).pdf" style="text-decoration:none;">Crystal
+Structure of Electroceramics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(88).pdf" style="text-decoration:none;">Curcumin in
+Health and Disease</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(89).pdf" style="text-decoration:none;">PAHs and the Universe: A Symposium to Celebrate the 25th Anniversary of the PAH Hypothesis</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(90).pdf" style="text-decoration:none;"> First-Principles
+Approaches to Metals, Alloys, and Metallic Compounds</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(91).pdf" style="text-decoration:none;">Volume 1: 
+Marine Polysaccharides</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(92).pdf" style="text-decoration:none;">Modern Sample
+Preparation Approaches for Separation Science</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(93).pdf" style="text-decoration:none;">Non-polysaccharide Plant
+Polymeric Materials</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(94).pdf" style="text-decoration:none;">Pickering
+Emulsion and Derived Materials</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(95).pdf" style="text-decoration:none;">Polymer
+Blends and Compatibilization</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(96).pdf" style="text-decoration:none;">Protein Engineering And
+Other Bio-synthetic Routes For Bio-based Materials: Current Uses And Potential Applications</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(97).pdf" style="text-decoration:none;">Solid Catalysts
+for the Upgrading of Renewable Sources</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(98).pdf" style="text-decoration:none;">Solid Phase Extraction
+State of the Art and Future Perspectives</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(99).pdf" style="text-decoration:none;">Young Talents in
+Polymer Science</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(100).pdf" style="text-decoration:none;">Multisensor Systems
+For Analysis Of Liquids And Gases: Trends And Developments</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
   
