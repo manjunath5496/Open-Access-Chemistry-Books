@@ -340,7 +340,7 @@ Early Evolution of Life: Prebiotic Chemistry of Biomolecules </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(131).pdf" style="text-decoration:none;">3D Printing
 of Metals</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(132).pdf" style="text-decoration:none;">Key Elements of Green Chemistry</a></li>   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(133).pdf" style="text-decoration:none;">Linking Optical And
 Chemical Properties Of Dissolved Organic Matter In Natural Waters</a></li>     
