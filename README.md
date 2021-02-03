@@ -8,10 +8,10 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(1).pdf" style="text-decoration:none;">Catalysis for the Conversion of Biomass and Its Derivatives</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(2).pdf" style="text-decoration:none;">Plant Polyamines In Stress
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(2).PDF" style="text-decoration:none;">Plant Polyamines In Stress
 And Development</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(3).pdf" style="text-decoration:none;">Mobile Genetic Elements In Cellular Differentiation, Genome Stability, And Cancer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(3).PDF" style="text-decoration:none;">Mobile Genetic Elements In Cellular Differentiation, Genome Stability, And Cancer</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(4).pdf" style="text-decoration:none;">s-Block Metal
 Complexes</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(5).pdf" style="text-decoration:none;">Solid-Phase
@@ -25,7 +25,7 @@ Chemistry of Silicon</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(9).pdf" style="text-decoration:none;">Organic Chemistry</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(10).pdf" style="text-decoration:none;">The Chemistry Of Imaging Probes</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(10).PDF" style="text-decoration:none;">The Chemistry Of Imaging Probes</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(11).pdf" style="text-decoration:none;">On the Diverse Bonding Situations in Nanostructures: An Ab Initio Computational Study</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(12).pdf" style="text-decoration:none;">Surface
 Chemistry and Catalysis</a></li>
@@ -37,7 +37,7 @@ Radiopharmaceutical Chemistry</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(15).pdf" style="text-decoration:none;">Ultrafast photophysics and photochemistry of radical precursors in solution</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(16).pdf" style="text-decoration:none;">Recent Investigations
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(16).PDF" style="text-decoration:none;">Recent Investigations
 Of Ergot Alkaloids Incorporated Into Plant And/or Animal Systems</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(17).pdf" style="text-decoration:none;">Nano- and
@@ -54,12 +54,12 @@ A Treatise on Entrepreneurs and Entrepreneurship for and in Technology Ventures:
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(21).pdf" style="text-decoration:none;">Electrochemical
 Immunosensors and Aptasensors</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(22).pdf" style="text-decoration:none;">Cancer Nanotheranostics:
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(22).PDF" style="text-decoration:none;">Cancer Nanotheranostics:
 What Have We Learned So Far?</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(23).pdf" style="text-decoration:none;">Imaging and engineering optical localized modes at the nanoscale</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(24).pdf" style="text-decoration:none;">Marine Biomolecules</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(24).PDF" style="text-decoration:none;">Marine Biomolecules</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(25).pdf" style="text-decoration:none;">Zeolite Catalysis</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(26).pdf" style="text-decoration:none;">Single molecule magnets sublimated on conducting and magnetic substrates</a></li>
@@ -113,7 +113,7 @@ Refinement in the Characterization of Crystalline Materials</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(48).pdf" style="text-decoration:none;">Newborn Screening
 for Sickle Cell Disease and other Haemoglobinopathies</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(49).pdf" style="text-decoration:none;">Radiation-induced
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(49).PDF" style="text-decoration:none;">Radiation-induced
 And Oxidative Dna Damages</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Chemistry-Books/blob/master/chem(50).pdf" style="text-decoration:none;">Nanofibres:
